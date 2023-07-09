@@ -28,7 +28,7 @@ STEP 2
 
 STEP 4
 * Once run the file and see, by following the command
-*Crazy-neofetch.sh
+* Crazy-neofetch.sh
   
 STEP 5
 * Go to your .bashrc file or .zshrc file , go to the end of the file and add the following line Crazy-neofetch.sh

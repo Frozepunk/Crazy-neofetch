@@ -5,6 +5,7 @@ You just need to have neofetch installed in your system .If you don't know how t
 First make the file executable by using the following command 
 * chmod +x install.sh
 * ./install.sh
+  
 if the script gives this error "Unsupported package manager. Please install neofetch manually." Then google how to install neofetch in your OS 
 # steps to install 
 STEP 1 

@@ -21,7 +21,7 @@ STEP2
 * chmod +x Crazy-neofetch.sh
 
 STEP 2
-* Move the crazy-neofetch to the home /usr/bin
+* Move the crazy-neofetch to the  /usr/bin
 * use this command "mv Crazy-neofetch.sh /usr/bin"
 * Chek weather the script is present or not by using the following command
 * ls /usr/bin/Carzy-neofetch.sh 

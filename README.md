@@ -7,7 +7,7 @@ First make the file executable by using the following command
 * ./install.sh
   
 if the script gives this error "Unsupported package manager. Please install neofetch manually." Then google how to install neofetch in your OS 
-# steps to install 
+# Steps to install 
 STEP 1 
 * git clone this this repositry
 

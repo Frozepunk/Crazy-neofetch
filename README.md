@@ -35,3 +35,9 @@ STEP 5
   
 STEP 6
 * Restart your teminal
+
+#OUTPUT
+
+
+https://github.com/Frozepunk/Crazy-neofetch/assets/113663135/87d2664b-38c2-4154-8a46-a9c7efa6a020
+

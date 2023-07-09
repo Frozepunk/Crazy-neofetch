@@ -1,7 +1,7 @@
 # Crazy-neofetch
 This script provides a fun and dynamic way to personalize the Neofetch output by randomly changing the ASCII art representing the Linux distribution each time it is executed.
 # Prerequisites
-You just need to have neofetch installed in your system .If you don't know how to install just run the  install.sh script to install neofetch in your OS
+You just need to have neofetch and installed in your system .If you don't know how to install just run the  install.sh script to install neofetch in your OS
 First make the file executable by using the following command 
 * chmod +x install.sh
 * ./install.sh
@@ -9,7 +9,8 @@ First make the file executable by using the following command
 if the script gives this error "Unsupported package manager. Please install neofetch manually." Then google how to install neofetch in your OS 
 # Steps to install 
 STEP 1 
-* git clone this this repositry
+* git clone this this repositry , use the following command
+*  git clone https://github.com/Frozepunk/Crazy-neofetch.git
 
 STEP 2 
 *  Change the directory to change the directory use the following command 

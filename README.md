@@ -22,10 +22,10 @@ STEP2
 
 STEP 2
 * Move the crazy-neofetch to the  /usr/bin
-* use this command "mv Crazy-neofetch.sh /usr/bin"
+* use this command "sudo mv Crazy-neofetch.sh /usr/bin"
 * Chek weather the script is present or not by using the following command
-* ls /usr/bin/Carzy-neofetch.sh 
-
+* ls /usr/bin/  | grep "Crazy"
+ 
 STEP 4
 * Once run the file and see, by following the command
 * Crazy-neofetch.sh

@@ -16,24 +16,24 @@ STEP 2
 *  Change the directory to change the directory use the following command 
 * cd Crazy-neofetch
 
-STEP2 
+STEP 3
 * Make the script executable by running this the following command 
 * chmod +x Crazy-neofetch.sh
 
-STEP 2
+STEP 4
 * Move the crazy-neofetch to the  /usr/bin
 * use this command "sudo mv Crazy-neofetch.sh /usr/bin"
 * Chek weather the script is present or not by using the following command
 * ls /usr/bin/  | grep "Crazy"
  
-STEP 4
+STEP 5
 * Once run the file and see, by following the command
 * Crazy-neofetch.sh
   
-STEP 5
+STEP 6
 * Go to your .bashrc file or .zshrc file , go to the end of the file and add the following line Crazy-neofetch.sh
   
-STEP 6
+STEP 7
 * Restart your teminal
 
 #OUTPUT
